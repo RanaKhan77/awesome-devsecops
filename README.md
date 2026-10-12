@@ -212,6 +212,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [IronWASP](https://ironwasp.org/)
 * [kube-bench](https://github.com/aquasecurity/kube-bench)
 * [Lynis](https://cisofy.com/lynis/)
+* [Website Vulnerability Scanner](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) - self-hosted web scanner, 203 deterministic modules, CVSS-scored evidence-backed reports (SQLi/XSS/SSRF/SSTI/CMS/headers/TLS), CI-friendly Docker runtime
 * [microscanner](https://github.com/aquasecurity/microscanner)
 * [Node Security Platform](https://nodesecurity.io/)
 * [npm-check](https://www.npmjs.com/package/npm-check)
